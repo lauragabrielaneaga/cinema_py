@@ -1,0 +1,4 @@
+Numele filmului: Warsaw 44,Durata: 130,Varsta minima: 18
+Numele filmului: The Addams Family ,Durata: 120,Limba dublare: romana
+Numele filmului: Miracol in celula 7,Durata: 150,Varsta minima: 13
+Numele filmului: Vrejul de fasole,Durata: 80,Limba dublare: engleza
